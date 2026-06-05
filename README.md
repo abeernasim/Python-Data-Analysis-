@@ -20,7 +20,7 @@ Break down the performance of cars manufactured in 3 regions (Europe, USA,Japan)
 -<a href="https://github.com/abeernasim/Python-Data-Analysis-/blob/main/Physical_Project%22_car_performance%22.ipynb"> View Code </a> 
 <img width="1824" height="714" alt="Cars Project Python Code" src="https://github.com/user-attachments/assets/f0364739-8aa3-4469-ba71-749f26be2b30" />
 
-##Project Insights and Final Conclusion 
+## Project Insights and Final Conclusion 
 - Extreme weight categories support the observed negative correlation between weight and MPG, where lighter cars consistently show better fuel efficiency than heavier vehicles, with US cars being heavier and Japanese cars being lighter.
 - MPG improves with newer car models overall with Japenese Cars improving consistently over the years but European cars ultimatly surpassing the Japanese cars with highest MPG in 80' 82'
 - Top 5 Feul Efficient Cars in Europe (1980-1982) :
