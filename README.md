@@ -4,7 +4,7 @@
 Break down the performance of cars manufactured in 3 regions (Europe, USA,Japan) to select the Top 5 cars in performance with best fuel efficiency. 
 
 ## Dataset used 
--<a href= “https://github.com/abeernasim/Python-Data-Analysis-/blob/main/cars.csv> Cars Performance Data </a>
+-<a href="https://github.com/abeernasim/Python-Data-Analysis-/blob/main/cars.csv" > Cars Performance Data </a>
 
 ## Questions(KPIs) 
 1- How does car weight affect MPG across the 3 regions ? 
@@ -17,7 +17,7 @@ Break down the performance of cars manufactured in 3 regions (Europe, USA,Japan)
 3- Plotting graphs to visualize the asked questions to reach a conclusion of the analysis 
 
 ## Python code 
-Python Code <a href= “https://github.com/abeernasim/Python-Data-Analysis-/blob/main/Physical_Project%22_car_performance%22.ipynb> View Code </a> 
+-<a href="https://github.com/abeernasim/Python-Data-Analysis-/blob/main/Physical_Project%22_car_performance%22.ipynb"> View Code </a> 
 <img width="1824" height="714" alt="Cars Project Python Code" src="https://github.com/user-attachments/assets/f0364739-8aa3-4469-ba71-749f26be2b30" />
 
 ##Project Insights and Final Conclusion 
